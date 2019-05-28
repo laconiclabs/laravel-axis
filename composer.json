@@ -1,5 +1,5 @@
 {
-    "name": "laconiclabs/laravel-axis",
+    "name": "laconic/laravel-axis",
     "description": "Laravel Platform",
     "require": {
         "php": "^5.3.3 || ^7.2"
